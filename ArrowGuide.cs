@@ -12,4 +12,5 @@ public class ArrowGuide : MonoBehaviour
         transform.position = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle)) * radius + (Vector2)playerPos.position;
         transform.rotation = Quaternion.Euler(transform.rotation.x, transform.rotation.y, angle * Mathf.Rad2Deg - 90f);
     }
+    //made by kurisuDevu
 }
