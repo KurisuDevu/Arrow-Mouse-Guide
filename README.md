@@ -1,4 +1,5 @@
 # To use this
-simply refer you player game object in player pos.<br/>
-set a radius (setting it it to less than 0 will inverse the movement of the arrow).<br/>
+simply refer your player game object in playerPos.<br/>
+set a radius (setting it to less than 0 will inverse the movement of the arrow).<br/>
 and make sure that your scene had a main camera.
+then you're good to go
